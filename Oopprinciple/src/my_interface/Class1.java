@@ -1,4 +1,4 @@
-package oop;
+package my_interface;
 
 public class Class1 implements Interface1 
 {

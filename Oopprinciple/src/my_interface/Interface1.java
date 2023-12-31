@@ -1,4 +1,4 @@
-package oop;
+package my_interface;
 
 public interface Interface1
 {
